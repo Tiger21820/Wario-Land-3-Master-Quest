@@ -3,9 +3,20 @@
 # Please see the documentation for all configuration options:
 # https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
 
-version: 2
+version: 3
 updates:
-  - package-ecosystem: "helm:dotnet-sdk:docker:composer" # See documentation for possible values
+  - package-ecosystem: "helm" # See documentation for possible values
+    package-ecosystem: "dotnet-sdk"
+    package-ecosystem: "docker"
+    package-ecosystem: "composer"
+    package-ecosystem: "bun"
+    package-ecosystem: "bundler"
+    package-ecosystem: "cargo"
+    package-ecosystem: "devcontainers"
+    package-ecosystem: "docker-compose"
+    package-ecosystem: "mix"
+    package-ecosystem: "elm"
+    package-ecosystem: "gitsubmodule"
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
