@@ -6,17 +6,6 @@
 version: 3
 updates:
   - package-ecosystem: "helm" # See documentation for possible values
-    package-ecosystem: "dotnet-sdk"
-    package-ecosystem: "docker"
-    package-ecosystem: "composer"
-    package-ecosystem: "bun"
-    package-ecosystem: "bundler"
-    package-ecosystem: "cargo"
-    package-ecosystem: "devcontainers"
-    package-ecosystem: "docker-compose"
-    package-ecosystem: "mix"
-    package-ecosystem: "elm"
-    package-ecosystem: "gitsubmodule"
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
