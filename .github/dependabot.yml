@@ -8,7 +8,7 @@ updates:
   - package-ecosystem: "helm" # See documentation for possible values
     package-ecosystem: "dotnet-sdk"
     package-ecosystem: "docker"
-    package-ecosystem: "composer"
+    package-ecosystem: "composer
     package-ecosystem: "bun"
     package-ecosystem: "bundler"
     package-ecosystem: "cargo"
