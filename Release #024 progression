@@ -1,3 +1,5 @@
-For release #024, changes have been made to the map event triggers, so The Temple will correctly direct the player to the next required treasure! Optional ones are mostly ordered based on the 100% guide on Nintendo 3DS Central: https://www.nintendo3dscentral.com/phpBB3/viewtopic.php?t=1749
+Update #000: For release #024, changes have been made to the map event triggers, so The Temple will correctly direct the player to the next required treasure! Optional ones are mostly ordered based on the 100% guide on Nintendo 3DS Central: https://www.nintendo3dscentral.com/phpBB3/viewtopic.php?t=1749
 
-Update: Changes reverted due to treasures activating the wrong events, and levels opening too early, will need to look into it further...
+Update #001: Changes reverted due to treasures activating the wrong events, and levels opening too early, will need to look into it further...
+
+Update #002: Worked on a level change, and will cancel the map event triggers until more understanding of the mechanics is made! There are no plans to release Release #024 in the near future!
