@@ -1,4 +1,4 @@
-# Wario Land 3: The Master Quest!
+# Wario Land 3: The Master Quest!!
 
 Currently on Release #023, released on April 13, 2025!
 
