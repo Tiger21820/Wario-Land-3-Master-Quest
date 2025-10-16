@@ -1,0 +1,12 @@
+Pest free for 5 day(s)
+Longest time without pests: 11 days
+
+Pest threat level: 4: Severe
+
+Pest threat levels:
+5: Extreme
+4: Severe
+3: High
+2: Moderate
+1: Mild
+0: Low
