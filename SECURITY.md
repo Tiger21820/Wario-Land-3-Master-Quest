@@ -1,2 +1,2 @@
 ...
-https://www.nintendo3dscentral.com/
+https://www.nintendo3dscentral.com
