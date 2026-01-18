@@ -3,8 +3,8 @@
 Currently on Release #025, released on October 2, 2025!
 
 This is a project page for my hack of Wario Land 3!
-
-https://www.nintendo3dscentral.com/phpBB3/viewforum.php?f=53
+h
+www.nintendo3dscentral.com/phpBB3/viewforum.php?f=53
 
 https://www.nintendo3dscentral.com/phpBB3/viewtopic.php?t=8
 
