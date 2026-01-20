@@ -1,5 +1,5 @@
 # Wario Land 3: The Master Quest!
-ggg
+
 Currently on Release #025, released on October 2, 2025!
 
 This is a project page for my hack of Wario Land 3!
