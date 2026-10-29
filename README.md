@@ -17,7 +17,7 @@ https://www.romhacking.net/hacks/4329/
 https://www.nintendo3dscentral.com/phpBB3/app.php/referral/sek7q22h
 
 Here's the story:
-k
+
 Wario thought it was a very lovely day outside, so he decided to fly his plane across a large forest, 
 hoping to score some treasure during the outing when suddenly his plane catches fire 
 and makes a crash landing (his plane was totaled) into the vast forest...
